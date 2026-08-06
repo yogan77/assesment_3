@@ -1,0 +1,38 @@
+[
+    {
+        "Faculty ID": "F003",
+        "Faculty Name": "Dr. Lee",
+        "Department": "Computer Science",
+        "Publications": 30,
+        "H-index": 20,
+        "Project Budget Requested": 150000.0,
+        "Industry Collaboration Score": 90,
+        "Research Score": 45.0,
+        "Grant Allocated": 150000.0,
+        "Rank": 1
+    },
+    {
+        "Faculty ID": "F001",
+        "Faculty Name": "Dr. Smith",
+        "Department": "Computer Science",
+        "Publications": 20,
+        "H-index": 12,
+        "Project Budget Requested": 120000.0,
+        "Industry Collaboration Score": 80,
+        "Research Score": 35.6,
+        "Grant Allocated": 120000.0,
+        "Rank": 2
+    },
+    {
+        "Faculty ID": "F002",
+        "Faculty Name": "Dr. Jones",
+        "Department": "Mechanical",
+        "Publications": 10,
+        "H-index": 5,
+        "Project Budget Requested": 90000.0,
+        "Industry Collaboration Score": 50,
+        "Research Score": 20.5,
+        "Grant Allocated": 45000.0,
+        "Rank": 3
+    }
+]
